@@ -1,5 +1,8 @@
 <RCC>
     <qresource prefix="/">
         <file>main.qml</file>
+        <file>enemy.qml</file>
+        <file>enemiesGenerator.js</file>
+        <file>AttackButton.qml</file>
     </qresource>
 </RCC>
